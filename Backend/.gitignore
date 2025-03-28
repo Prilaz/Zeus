@@ -1,0 +1,8 @@
+#file that doesn't need to save in git
+
+node_modules
+.env
+.log
+
+public/uploads
+

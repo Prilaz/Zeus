@@ -1,0 +1,17 @@
+.bttn {
+  background: rgb(76, 76, 227);
+  border-radius: 50% 0% 0% 50%;
+  width: 70px;
+  height: 70px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.dark-bttn {
+  background-color: rgb(25, 25, 31);
+  border-radius: 50% 0% 0% 50%;
+  width: 70px;
+  height: 70px;
+  color: #091bde;
+  font-weight: 700;
+}
